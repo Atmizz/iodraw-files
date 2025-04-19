@@ -16,7 +16,7 @@
           <mxGeometry x="910" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7scN79bP9lxhkmiiBICM-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;配送员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7scN79bP9lxhkmiiBICM-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;支付平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
@@ -50,9 +50,6 @@
         </mxCell>
         <mxCell id="87DUlsxkVI8Kquj2ga6Z-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;订单信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-40;" parent="1" vertex="1">
           <mxGeometry x="600" y="247.5" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="87DUlsxkVI8Kquj2ga6Z-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;P3 提交支付请求&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PajfxlY_K0KBGbCPl-tt-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;P1 提交订单&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="100" height="100" as="geometry" />
