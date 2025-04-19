@@ -49,7 +49,8 @@
             <mxPoint x="340" y="790" as="targetPoint" />
             <Array as="points">
               <mxPoint x="175" y="830" />
-              <mxPoint x="377" y="830" />
+              <mxPoint x="330" y="830" />
+              <mxPoint x="330" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -206,8 +207,8 @@
         <mxCell id="GZteVQBc-FjWEnRNaB1T-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;配送状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="12.5" y="990" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GZteVQBc-FjWEnRNaB1T-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.094;entryY=0.781;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gupW5vmfRynLOSnvKSoX-24" target="gupW5vmfRynLOSnvKSoX-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GZteVQBc-FjWEnRNaB1T-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;配送状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="950" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
