@@ -26,17 +26,18 @@
             <mxPoint x="220" y="179.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ll1Ar0ORIYIb31IGkZYS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ll1Ar0ORIYIb31IGkZYS-4" target="7scN79bP9lxhkmiiBICM-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll1Ar0ORIYIb31IGkZYS-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;P2 获取订单&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="180" width="120" height="80" as="geometry" />
+        <mxCell id="ll1Ar0ORIYIb31IGkZYS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="7scN79bP9lxhkmiiBICM-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="219.9999999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="87DUlsxkVI8Kquj2ga6Z-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="482.5" y="287.5" width="35" height="132.5" as="geometry" />
         </mxCell>
-        <mxCell id="87DUlsxkVI8Kquj2ga6Z-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1.008;exitY=0.557;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="87DUlsxkVI8Kquj2ga6Z-2" target="ll1Ar0ORIYIb31IGkZYS-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="87DUlsxkVI8Kquj2ga6Z-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1.008;exitY=0.557;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="87DUlsxkVI8Kquj2ga6Z-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="727.5735931288073" y="248.2842712474619" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="87DUlsxkVI8Kquj2ga6Z-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;D1&amp;nbsp; &amp;nbsp; 订单记录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="333.75" width="140" height="40" as="geometry" />
@@ -56,8 +57,8 @@
         <mxCell id="PajfxlY_K0KBGbCPl-tt-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;P1 提交订单&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PajfxlY_K0KBGbCPl-tt-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;P1 提交订单&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="610" y="110" width="100" height="100" as="geometry" />
+        <mxCell id="PajfxlY_K0KBGbCPl-tt-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;P2 获取订单&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="727" y="170" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
