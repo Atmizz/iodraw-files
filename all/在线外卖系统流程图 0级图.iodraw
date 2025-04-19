@@ -47,6 +47,9 @@
         <mxCell id="87DUlsxkVI8Kquj2ga6Z-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;订单信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="46.25" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="87DUlsxkVI8Kquj2ga6Z-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;订单信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
