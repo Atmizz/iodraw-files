@@ -49,7 +49,7 @@
         <mxCell id="87DUlsxkVI8Kquj2ga6Z-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;订单信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-35;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="87DUlsxkVI8Kquj2ga6Z-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;提交订单&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="87DUlsxkVI8Kquj2ga6Z-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;P3 提交支付请求&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="333.75" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
