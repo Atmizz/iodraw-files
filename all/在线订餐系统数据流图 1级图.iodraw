@@ -13,6 +13,9 @@
         <mxCell id="GZteVQBc-FjWEnRNaB1T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gupW5vmfRynLOSnvKSoX-2" target="gupW5vmfRynLOSnvKSoX-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GZteVQBc-FjWEnRNaB1T-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gupW5vmfRynLOSnvKSoX-2" target="FcFO3BmIg3b3pPkNZPKS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gupW5vmfRynLOSnvKSoX-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="730" width="120" height="60" as="geometry" />
         </mxCell>
@@ -215,6 +218,9 @@
         </mxCell>
         <mxCell id="GZteVQBc-FjWEnRNaB1T-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;配送状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZteVQBc-FjWEnRNaB1T-71" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;浏览请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="670" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
