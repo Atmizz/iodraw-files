@@ -44,7 +44,7 @@
         <mxCell id="87DUlsxkVI8Kquj2ga6Z-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="414" width="35" height="132.5" as="geometry" />
         </mxCell>
-        <mxCell id="87DUlsxkVI8Kquj2ga6Z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="87DUlsxkVI8Kquj2ga6Z-2" target="7scN79bP9lxhkmiiBICM-2">
+        <mxCell id="87DUlsxkVI8Kquj2ga6Z-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="87DUlsxkVI8Kquj2ga6Z-2" target="7scN79bP9lxhkmiiBICM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="87DUlsxkVI8Kquj2ga6Z-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;D1&amp;nbsp; &amp;nbsp; 订单信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="87DUlsxkVI8Kquj2ga6Z-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;订单信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-40;" vertex="1" parent="1">
           <mxGeometry x="219" y="102.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87DUlsxkVI8Kquj2ga6Z-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;订单信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
+          <mxGeometry x="600" y="86.25" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
