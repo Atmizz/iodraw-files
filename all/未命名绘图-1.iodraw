@@ -16,8 +16,8 @@
         <mxCell id="7scN79bP9lxhkmiiBICM-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;支付平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7scN79bP9lxhkmiiBICM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="7scN79bP9lxhkmiiBICM-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;在线外卖系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
