@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gupW5vmfRynLOSnvKSoX-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gupW5vmfRynLOSnvKSoX-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;商家&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="190" width="120" height="60" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="50" y="436.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gupW5vmfRynLOSnvKSoX-27" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="192.5" y="530" width="35" height="165" as="geometry" />
+          <mxGeometry x="-47.5" y="-40" width="35" height="165" as="geometry" />
         </mxCell>
         <mxCell id="gupW5vmfRynLOSnvKSoX-28" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;D3&amp;nbsp; &amp;nbsp; 支付记录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="592.5" width="160" height="40" as="geometry" />
+          <mxGeometry x="-110" y="22.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gupW5vmfRynLOSnvKSoX-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;支付信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="540" width="100" height="40" as="geometry" />
