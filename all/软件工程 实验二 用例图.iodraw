@@ -159,19 +159,22 @@
           <mxGeometry x="60" y="630" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xhPgzKhSgcVW4JGkPakI-54" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xhPgzKhSgcVW4JGkPakI-55" value="订单监控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="590" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xhPgzKhSgcVW4JGkPakI-56" value="财务结算" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="660" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="740" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xhPgzKhSgcVW4JGkPakI-57" value="异常处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xhPgzKhSgcVW4JGkPakI-58" value="数据报表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xhPgzKhSgcVW4JGkPakI-64" value="登录（用户）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
