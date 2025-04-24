@@ -10,6 +10,9 @@
         <mxCell id="2VnHIWQSywcYJFT_0FIN-1" value="乘客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="380" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xhPgzKhSgcVW4JGkPakI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TCvxaWsm1a4mYbkQ1oTr-1" target="xhPgzKhSgcVW4JGkPakI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TCvxaWsm1a4mYbkQ1oTr-1" value="司机" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="380" width="30" height="60" as="geometry" />
         </mxCell>
