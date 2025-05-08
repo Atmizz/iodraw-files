@@ -28,7 +28,7 @@
         <mxCell id="zryNe4G4B69PP015AM75-7" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="150" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zryNe4G4B69PP015AM75-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zryNe4G4B69PP015AM75-8" target="zryNe4G4B69PP015AM75-1">
+        <mxCell id="zryNe4G4B69PP015AM75-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zryNe4G4B69PP015AM75-8" target="zryNe4G4B69PP015AM75-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zryNe4G4B69PP015AM75-8" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,6 +49,9 @@
         </mxCell>
         <mxCell id="zryNe4G4B69PP015AM75-10" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="60" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zryNe4G4B69PP015AM75-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zryNe4G4B69PP015AM75-11" target="zryNe4G4B69PP015AM75-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zryNe4G4B69PP015AM75-11" value="注册日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="70" width="80" height="50" as="geometry" />
