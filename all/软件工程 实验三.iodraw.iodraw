@@ -101,22 +101,22 @@
           <mxGeometry x="803" y="590" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-19" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="813" y="670" width="80" height="50" as="geometry" />
+          <mxGeometry x="-437" y="680" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-20" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="813" y="530" width="80" height="50" as="geometry" />
+          <mxGeometry x="-437" y="540" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-21" value="作者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="460" width="80" height="50" as="geometry" />
+          <mxGeometry x="-440" y="470" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XrBKRKSSwh82Y6FEOeW1-22" value="书名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="390" width="80" height="50" as="geometry" />
+        <mxCell id="XrBKRKSSwh82Y6FEOeW1-22" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="400" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XrBKRKSSwh82Y6FEOeW1-23" value="ISBN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="320" width="80" height="50" as="geometry" />
+        <mxCell id="XrBKRKSSwh82Y6FEOeW1-23" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="330" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-24" value="库存数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="813" y="600" width="80" height="50" as="geometry" />
+          <mxGeometry x="-437" y="610" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
