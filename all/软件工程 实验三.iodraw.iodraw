@@ -288,11 +288,6 @@
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-91" value="ISBN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="900" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XrBKRKSSwh82Y6FEOeW1-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-92">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="759.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-92" value="ISBN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="880" width="80" height="50" as="geometry" />
         </mxCell>
