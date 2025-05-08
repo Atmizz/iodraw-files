@@ -213,10 +213,16 @@
           <mxGeometry x="70" y="690" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-68" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="720" width="80" height="50" as="geometry" />
+          <mxGeometry x="120" y="730" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-69" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="760" width="80" height="50" as="geometry" />
+          <mxGeometry x="170" y="770" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XrBKRKSSwh82Y6FEOeW1-70" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XrBKRKSSwh82Y6FEOeW1-71" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="760" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
