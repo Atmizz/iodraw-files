@@ -11,16 +11,16 @@
           <mxGeometry x="470" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zryNe4G4B69PP015AM75-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="707" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zryNe4G4B69PP015AM75-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;借阅记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zryNe4G4B69PP015AM75-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;预约记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zryNe4G4B69PP015AM75-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;罚款记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zryNe4G4B69PP015AM75-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="zryNe4G4B69PP015AM75-7" target="zryNe4G4B69PP015AM75-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
