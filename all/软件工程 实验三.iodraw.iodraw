@@ -72,7 +72,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-2" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="660" width="80" height="50" as="geometry" />
+          <mxGeometry x="713" y="660" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-4">
           <mxGeometry relative="1" as="geometry">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-4" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="713" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-6">
           <mxGeometry relative="1" as="geometry">
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-6" value="作者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="450" width="80" height="50" as="geometry" />
+          <mxGeometry x="710" y="450" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-8">
           <mxGeometry relative="1" as="geometry">
@@ -96,13 +96,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-8" value="书名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="380" width="80" height="50" as="geometry" />
+          <mxGeometry x="710" y="380" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-10" target="zryNe4G4B69PP015AM75-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-10" value="ISBN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="310" width="80" height="50" as="geometry" />
+          <mxGeometry x="710" y="310" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-12">
           <mxGeometry relative="1" as="geometry">
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-12" value="库存数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="590" width="80" height="50" as="geometry" />
+          <mxGeometry x="713" y="590" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-20">
           <mxGeometry relative="1" as="geometry">
