@@ -100,8 +100,18 @@
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-12" value="库存数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="803" y="590" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="XrBKRKSSwh82Y6FEOeW1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-20" value="入职日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-327" y="600" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XrBKRKSSwh82Y6FEOeW1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-21" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="530" width="80" height="50" as="geometry" />
@@ -114,7 +124,7 @@
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-22" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="460" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XrBKRKSSwh82Y6FEOeW1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-23" target="zryNe4G4B69PP015AM75-3">
+        <mxCell id="XrBKRKSSwh82Y6FEOeW1-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XrBKRKSSwh82Y6FEOeW1-23" target="zryNe4G4B69PP015AM75-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrBKRKSSwh82Y6FEOeW1-23" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
