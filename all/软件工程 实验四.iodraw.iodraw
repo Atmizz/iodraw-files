@@ -46,7 +46,7 @@
         <mxCell id="uN7WpUhT4gOrMVDMtxzD-10" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="294" y="275" width="406" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uN7WpUhT4gOrMVDMtxzD-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-11" value="负载均衡器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="714" y="275" width="406" height="50" as="geometry" />
         </mxCell>
       </root>
