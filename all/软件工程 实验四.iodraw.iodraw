@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BgJEMCJGa5UlKcVlD4Eq">
-    <mxGraphModel dx="1793" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,24 @@
         </mxCell>
         <mxCell id="uN7WpUhT4gOrMVDMtxzD-25" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.18181818181818182;" vertex="1" parent="1">
           <mxGeometry x="140" y="490" width="80" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="304" y="350" width="826" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;认证管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;商品管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;交易管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;社交管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="360" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
