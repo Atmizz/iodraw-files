@@ -52,8 +52,11 @@
         <mxCell id="uN7WpUhT4gOrMVDMtxzD-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="294" y="340" width="826" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uN7WpUhT4gOrMVDMtxzD-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PC端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="170" height="60" as="geometry" />
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN7WpUhT4gOrMVDMtxzD-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
