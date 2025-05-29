@@ -15,11 +15,19 @@
         </mxCell>
         <mxCell id="KQVR9fX-MgIcWbudGxUQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KQVR9fX-MgIcWbudGxUQ-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="90" as="sourcePoint" />
+            <mxPoint x="385" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KQVR9fX-MgIcWbudGxUQ-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;筛选条件解析模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="140" width="130" height="50" as="geometry" />
+        <mxCell id="KQVR9fX-MgIcWbudGxUQ-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;生成结构化对象&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KQVR9fX-MgIcWbudGxUQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KQVR9fX-MgIcWbudGxUQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQVR9fX-MgIcWbudGxUQ-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;筛选条件解析模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
