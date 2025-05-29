@@ -46,7 +46,7 @@
           <mxGeometry x="320" y="530" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KQVR9fX-MgIcWbudGxUQ-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;是否存在&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;符合条件的航班&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="630" width="110" height="80" as="geometry" />
+          <mxGeometry x="310" y="590" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
