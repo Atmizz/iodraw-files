@@ -45,6 +45,9 @@
         <mxCell id="KQVR9fX-MgIcWbudGxUQ-11" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;多条件组合筛选&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;模块&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KQVR9fX-MgIcWbudGxUQ-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
