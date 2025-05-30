@@ -98,7 +98,7 @@
           <mxGeometry x="320" y="1050" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HcJLi_CH8aS0Oq0FXTgn-22" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;过滤数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1460" width="130" height="50" as="geometry" />
+          <mxGeometry x="480" y="1430" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HcJLi_CH8aS0Oq0FXTgn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="HcJLi_CH8aS0Oq0FXTgn-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -118,6 +118,9 @@
         </mxCell>
         <mxCell id="HcJLi_CH8aS0Oq0FXTgn-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="1070" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RCVXj5WrDNglZiOf8YsJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HcJLi_CH8aS0Oq0FXTgn-28" target="HcJLi_CH8aS0Oq0FXTgn-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HcJLi_CH8aS0Oq0FXTgn-28" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;检查航价位是否匹配&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="1290" width="130" height="90" as="geometry" />
