@@ -61,11 +61,11 @@
         <mxCell id="opZYOcdowJfMvW23V4rd-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;航空公司是否匹配&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;rotation=90;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="307.51" y="100" width="40" height="520.01" as="geometry" />
         </mxCell>
-        <mxCell id="opZYOcdowJfMvW23V4rd-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="402.5" width="40" height="30" as="geometry" />
+        <mxCell id="opZYOcdowJfMvW23V4rd-27" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="opZYOcdowJfMvW23V4rd-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="402.5" width="40" height="30" as="geometry" />
+        <mxCell id="opZYOcdowJfMvW23V4rd-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
