@@ -10,8 +10,11 @@
         <mxCell id="opZYOcdowJfMvW23V4rd-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据获取模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="180" width="530" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="opZYOcdowJfMvW23V4rd-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据获取模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="190" width="530" height="40" as="geometry" />
+        <mxCell id="opZYOcdowJfMvW23V4rd-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户输入查询条件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="opZYOcdowJfMvW23V4rd-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户输入查询条件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="530" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
